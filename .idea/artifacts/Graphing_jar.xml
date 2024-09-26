@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Graphing:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Graphing_jar</output-path>
+    <root id="archive" name="RandomStuff.jar">
+      <element id="module-output" name="Graphing" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/exp4j-0.4.8.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
