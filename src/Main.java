@@ -27,7 +27,7 @@ public class Main {
             System.out.print("Input Your Expression: ");
             expression = scan.next();
             if (amount > 1 && tracker != amount) {
-                title = title.concat(expression + " & "); // Add more robust title generation
+                title = title.concat(expression + " & ");
                 tracker++;
             } else {
                 title = title.concat(expression);
