@@ -9,4 +9,4 @@ It's a really basic graphing tool. Runs really poorly but was kind of fun to mak
 - 0 to reset graph
 
 ## Dependency
-(exp4j)[https://www.objecthunter.net/exp4j/] - I think I'll eventually make my own implementation of this cus it seems like a fun challenge
+[exp4j](https://www.objecthunter.net/exp4j/) - I think I'll eventually make my own implementation of this cus it seems like a fun challenge
