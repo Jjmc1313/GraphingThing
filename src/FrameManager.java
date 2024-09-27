@@ -10,7 +10,6 @@ public class FrameManager extends JFrame implements KeyListener {
        setSize(Main.res[0], Main.res[1]);
 
        gM.setFocusable(true);
-       gM.setFocusTraversalKeysEnabled(true);
        gM.addKeyListener(this);
 
        setDefaultCloseOperation(EXIT_ON_CLOSE);
